@@ -3,7 +3,7 @@ import subprocess
 import time
 
 
-threshold_percentage = 3000
+threshold_percentage = 30
 excluded_processes = ['devenv.exe', 'HopToDesk.exe', 'msedge.exe']  # List of process names to exclude
 
 
