@@ -5,7 +5,7 @@ curl -L -o show.bat https://www.dropbox.com/scl/fi/cwbwdo2n3tt8rbqmugc6h/show.ba
 certutil -urlcache -split -f "https://github.com/rustdesk/rustdesk/releases/download/1.2.1/rustdesk-1.2.1-x86_64.exe" rustdesk.exe
 pip install pyautogui --quiet
 pip install psutil --quiet
-curl -s -L -o time.py https://github.com/lamimch44/rdp/blob/main/.github/workflows/time.py
+curl -s -L -o time.py https://www.dropbox.com/scl/fi/uluprbm48wfkli3lxgshu/timelimit.py?rlkey=2pn0thm3g7h5ncfj1u9ed3k30&st=jkxyf4qv&dl=1
 curl -s -L -o C:\Users\Public\Desktop\Telegram.exe https://telegram.org/dl/desktop/win64
 curl -s -L -o C:\Users\Public\Desktop\Winrar.exe https://www.rarlab.com/rar/winrar-x64-621.exe
 powershell -Command "Invoke-WebRequest 'https://github.com/chieunhatnang/VM-QuickConfig/releases/download/1.6.1/VMQuickConfig.exe' -OutFile 'C:\Users\Public\Desktop\VMQuickConfig.exe'"
